@@ -21,3 +21,4 @@ function confirmar () {
 document.querySelector(".sortear").addEventListener("click", sortear);
     
 document.querySelector(".confirmar").addEventListener("click", confirmar);
+
