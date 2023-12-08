@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(./Christmas_city.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 92vh;
+}
+
+h1 {
+    position: absolute;
+    left: 38%;
+    top: 10%;
+    text-align: center;
+    color: white;
+    text-decoration: red overline underline;
+}
+
+input {
+    width: 100px;
+    height: 100px;
+    border-color: limegreen;
+    border-radius: 50%;
+    background-color: transparent;
+    color: white;
+    font-size: 18px;
+}
+
+.container {
+    position: absolute;
+    left: 39.5%;
+    top: 45%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 100px;
+    border: 2px solid limegreen;
+    border-radius: 50%;
+}
+
+p {
+    color: white;
+    font-size: 20px;
+}
