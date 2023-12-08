@@ -1,4 +1,4 @@
-var nomes = ['André', 'Maynara', 'Pedro', 'Gustavo', 'Fabiana', 'Gabriel', 'Túlio'];
+var nomes = ['André', 'Maynara', 'Pedro', 'Gabi', 'Gustavo', 'Fabiana', 'Gabriel', 'Túlio'];
 var resultado;
 var sorteado;
 
